@@ -7,5 +7,7 @@ express
 mongodb
 html/css
 
+angular
+cpp
 
 thank you:)
