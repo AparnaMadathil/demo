@@ -7,7 +7,13 @@ express
 mongodb
 html/css
 
+angular
+cpp
 
 thank you:)
 
+
+done my changes
+
 final copy
+
